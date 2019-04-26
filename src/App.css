@@ -31,3 +31,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+.navbar {
+
+}
+
+.navbar ul {
+  list-style-type: none;
+}
+
+.navbar ul li {
+  display: inline-grid;
+  padding: 1rem;
+}
+
+.navbar ul li a {
+  color: black;
+}
+
+
+
+
